@@ -1,4 +1,4 @@
 Croconate
 =========
 
-Simple platform games editor build with web technologies.
+Simple platform games editor built with web technologies.
